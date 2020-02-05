@@ -1,4 +1,4 @@
-## Myo electric prosthetic arm
+## MYRO : MY Robotic Arm
 
 A simple library developed for my final year project : Myo Electric Prosthetic Arm
 
