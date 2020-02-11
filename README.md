@@ -7,3 +7,5 @@ The signals received from the MYO band is sent to the micro-processor over bluet
 
 Blog : https://pyblog.xyz
 
+
+![Basic block diagram](https://pyblog.xyz/wp-content/uploads/2020/02/Block-Diagram.png)
