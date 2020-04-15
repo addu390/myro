@@ -12,8 +12,8 @@ Blog : https://pyblog.xyz
 
 - - -
 ### Myro Android app
-![Myro Android app](https://pyblog.xyz/wp-content/uploads/2020/04/myro_app.png)
+<img src="https://pyblog.xyz/wp-content/uploads/2020/04/myro_app.png" width="300"/>
 
 - - -
 ### MIT App inventor blocks
-![MIT App inventor blocks](https://pyblog.xyz/wp-content/uploads/2020/04/mit_blocks.png)
+<img src="https://pyblog.xyz/wp-content/uploads/2020/04/mit_blocks.png" width="500"/>
