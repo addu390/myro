@@ -8,12 +8,12 @@ The signals received from the MYO band is sent to the micro-processor over bluet
 Blog : https://pyblog.xyz
 
 - - -
-![Basic block diagram](https://pyblog.xyz/wp-content/uploads/2020/02/Block-Diagram.png)
+![Basic block diagram](https://pyblog.xyz/wp-content/uploads/2020/02/Block-Diagram.png?raw=true)
 
 - - -
 ### Myro Android app
-<img src="https://pyblog.xyz/wp-content/uploads/2020/04/myro_app.png" width="300"/>
+<img src="https://pyblog.xyz/wp-content/uploads/2020/04/myro_app.png?raw=true" width="300"/>
 
 - - -
 ### MIT App inventor blocks
-<img src="https://pyblog.xyz/wp-content/uploads/2020/04/mit_blocks.png" width="500"/>
+<img src="https://pyblog.xyz/wp-content/uploads/2020/04/mit_blocks.png?raw=true" width="500"/>
