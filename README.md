@@ -16,3 +16,4 @@ The signals received from the MYO band is sent to the micro-processor over bluet
 Arduino Nano + HC-05 bluetooth module for modularity (plug-n-play), interconnected to the Raspberry Pi 3.
 <img src="https://pyblog.xyz/wp-content/uploads/2020/09/myro-app.png?raw=true" width="300"/>
 
+Term paper: https://pyblog.xyz/wp-content/uploads/2020/09/Adesh-Nalpet-Adimurthy-Term-Paper.pdf
