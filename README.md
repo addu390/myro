@@ -1,3 +1,6 @@
+Update: Signals from surface EMG (Electro Myography) sensors are not very reliable for certain amputees, hence considering to rely more on Inertial Measurement Unit (IMU).
+Get the latest updated from the repository: https://github.com/addu390/motion-tracking-kai-python
+
 ## MYRO : MY Robotic Arm
 <img src="https://pyblog.xyz/wp-content/uploads/2020/09/Myro_Final.png" width="40" > : https://myro.in
 
