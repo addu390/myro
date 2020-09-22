@@ -14,6 +14,9 @@ The signals received from the MYO band is sent to the micro-processor over bluet
 
 ![Basic block diagram](https://pyblog.xyz/wp-content/uploads/2020/02/Block-Diagram.png?raw=true)
 
+While this library is light weight and easy, the official library from MYO: https://github.com/NiklasRosenstein/myo-python
+Examples: https://github.com/NiklasRosenstein/myo-python/tree/master/examples
+
 ### Myro Android app
 
 Arduino Nano + HC-05 bluetooth module for modularity (plug-n-play), interconnected to the Raspberry Pi 3.
