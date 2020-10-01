@@ -23,3 +23,8 @@ Arduino Nano + HC-05 bluetooth module for modularity (plug-n-play), interconnect
 <img src="https://pyblog.xyz/wp-content/uploads/2020/09/myro-app.png?raw=true" width="300"/>
 
 Term paper: https://pyblog.xyz/wp-content/uploads/2020/09/Adesh-Nalpet-Adimurthy-Term-Paper.pdf
+
+<img src="https://pyblog.xyz/wp-content/uploads/2020/09/adesh-hi.jpg" width="300">
+#### Hi, have a look at the new developments
+- IMU with KAI: https://github.com/addu390/motion-tracking-kai-python
+- For more details, visit: https://myro.in
