@@ -1,5 +1,7 @@
 # Myoelectric Prosthetic Arm — MYRO 2.0
 
+⛔️ Deprecated
+
 <img src="ironman_myro.png" /> 
 <p style="text-align: center;">MYRO 2.0 — Ironman with Prosthetics 🤪</p>
 
